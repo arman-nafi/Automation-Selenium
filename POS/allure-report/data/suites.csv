@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Jun 20 15:09:18 BDT 2023","Tue Jun 20 15:09:39 BDT 2023","20885","","test_add_new_admin","AddNewAdmin","","","test_add_user",""
+"passed","Tue Jun 20 15:08:28 BDT 2023","Tue Jun 20 15:08:36 BDT 2023","8341","","test_Loginpage","LoginTest","","","test_home_page_title",""
+"passed","Tue Jun 20 15:08:36 BDT 2023","Tue Jun 20 15:08:46 BDT 2023","9237","","test_Loginpage","LoginTest","","","test_invalid_password",""
+"passed","Tue Jun 20 15:08:46 BDT 2023","Tue Jun 20 15:09:00 BDT 2023","13979","","test_Loginpage","LoginTest","","","test_invalid_username",""
+"passed","Tue Jun 20 15:09:39 BDT 2023","Tue Jun 20 15:09:59 BDT 2023","20088","","test_random_user","AddNewAdminRandom","","","test_add_user_random",""
+"passed","Tue Jun 20 15:09:00 BDT 2023","Tue Jun 20 15:09:14 BDT 2023","14784","","test_Loginpage","LoginTest","","","test_valid_username_password",""
